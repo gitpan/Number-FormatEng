@@ -1,0 +1,8 @@
+
+name:         Number::FormatEng
+version:      0.01
+version_from: FormatEng.pm
+installdirs:  site
+requires:
+
+distribution_type: module
